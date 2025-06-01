@@ -8,7 +8,7 @@ export function TemplateInicioPage() {
     <div className="flex flex-col items-center text-center animate-fade-in">
       <div className="relative w-full max-w-4xl h-64 md:h-96 rounded-lg overflow-hidden shadow-2xl mb-8">
         <Image
-          src="https://placehold.co/1200x600.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjieUquejP5IC70dRHyoilUin8vtTCa0GPUDh14fWxA0OnHU6Gz53R08J1lx-KoKHiD4&usqp=CAU"
           alt="Fachada de um cinema moderno e iluminado à noite"
           layout="fill"
           objectFit="cover"
